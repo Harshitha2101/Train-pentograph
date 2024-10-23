@@ -1,5 +1,5 @@
 # Train-pentograph
-This C++ project demonstrates how to control a servo motor to simulate the actuation of a train pantograph using an Arduino. The servo motor will sweep from 0 degrees to 180 degrees and back to 0 degrees, mimicking the motion of raising and lowering a train p
+This C++ project demonstrates how to control a servo motor to simulate the actuation of a train pantograph using an Arduino. The servo motor will sweep from 0 degrees to 180 degrees and back to 0 degrees, mimicking the motion of raising and lowering a train . We performed velocity analysis to ensure that the pentograph head remains horizontal throughout motion. We made CAD model for our pentograph and calculated input torque required.
 
 ## Components Needed
 - Arduino board (e.g., Arduino Uno)
